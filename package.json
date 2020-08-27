@@ -12,7 +12,10 @@
   "dependencies": {
     "discord.js": "^12.3.1",
     "dotenv": "^8.2.0",
+    "google-auth-library": "^6.0.6",
+    "googleapis": "^59.0.0",
     "opusscript": "^0.0.7",
+    "simpleyt": "^1.0.5",
     "ytdl-core": "^3.2.2"
   },
   "devDependencies": {}
